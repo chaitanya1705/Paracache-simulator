@@ -14,3 +14,5 @@ pip install tabulate
 ```
 - Run the file
 
+## Output ScreenShots
+<img src="https://github.com/chaitanya1705/Paracache-simulator/blob/main/Simulator.png">
