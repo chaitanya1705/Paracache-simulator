@@ -13,6 +13,9 @@ This is a simple Python program for simulating a cache memory system. It allows 
 pip install tabulate
 ```
 - Run the file
+```
+python simulator.py
+```
 
 ## Output Screenshot
 <img src="https://github.com/chaitanya1705/Paracache-simulator/blob/main/Simulator.png">
